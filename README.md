@@ -35,6 +35,4 @@ Run npm start.
 - The "Start" button will change to "Restart" after the first move.
 - The score will increase with each move. The score will be incremented by the sum of all merged cells.
 
-
-
 ## Good luck! Have fun playing and implementing the 2048 game.
