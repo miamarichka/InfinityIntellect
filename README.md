@@ -5,7 +5,7 @@ This project was created with Parcel. To learn about it more,
 please, check the docs (https://parceljs.org/).
 
 ## Demo
-You can find a live demo of the game [https://miamarichka.github.io/game_2048/](DEMO LINK). Give it a try!
+You can find a live demo of the game [https://miamarichka.github.io/InfinityIntellect/](DEMO LINK). Give it a try!
 
 ## Instructions
 To run the game on your computer, follow these instructions:
