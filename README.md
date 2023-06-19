@@ -1,4 +1,4 @@
-# 2048 Game
+# InfinityIntellect
 This is a JavaScript implementation of the popular game 2048. Are you ready to put your JavaScript skills to the test? Let's get started!
 
 This project was created with Parcel. To learn about it more, 
